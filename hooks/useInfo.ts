@@ -5,7 +5,7 @@ import { useCallback } from 'react';
 // 위경도 정보를 전역 state 로 보관한다
 // SWR 을 활용한다.
 // SWR 을 활용하여 위경도 데이터를 전역에 보관(담아준다)
-// mutate : SWR 에 쓴다(저장)
+// mutate : SWR 에 쓴다
 import { Info } from '@/types/info';
 import { mutate } from 'swr';
 // SWR 의 KEY 는 문자열 : 문자열의 장소에 전역데이터를 보관한다.
