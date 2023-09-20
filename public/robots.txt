@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://hwell-app-8fvb-5jgccpvm7-leevscode.vercel.app
+Host: https://hwell-app-heda.vercel.app
 
 # Sitemaps
-Sitemap: https://hwell-app-8fvb-5jgccpvm7-leevscode.vercel.app/sitemap.xml
+Sitemap: https://hwell-app-heda.vercel.app/sitemap.xml
