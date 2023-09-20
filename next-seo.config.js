@@ -22,8 +22,8 @@ export default {
   ],
   additionalMetaTags: [
     {
-      name: 'google-site-verification',
-      content: 'm_Gm-YZtvPw5xVcIf3R5pIZIhGWSELtRwq3EInk7P6Q',
-    },
-  ],
+    name : "google-site-verification",
+    content : "m_Gm-YZtvPw5xVcIf3R5pIZIhGWSELtRwq3EInk7P6Q",
+  },
+]
 };
