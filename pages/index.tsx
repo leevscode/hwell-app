@@ -31,6 +31,7 @@ export default function Home({ infos }: IProps) {
     </>
   );
 }
+
 // pre-rendering 하여서 SSG 생성
 export async function getStaticProps() {
   // public 에 있는 info.json 가져오기
