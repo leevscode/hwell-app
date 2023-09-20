@@ -20,4 +20,10 @@ export default {
       content: 'eaafd9f6fa732963f869fe9118aa5ed76e2e0aba',
     },
   ],
+  additionalMetaTags: [
+    {
+      name: 'google-site-verification',
+      content: 'm_Gm-YZtvPw5xVcIf3R5pIZIhGWSELtRwq3EInk7P6Q',
+    },
+  ],
 };
